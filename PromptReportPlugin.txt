@@ -1,4 +1,4 @@
-Sulla base dell'incidente {{id}} genera il report seguendo quanto descritto qui di seguito:
+Sulla base dell'incidente "id" genera il report seguendo quanto descritto qui di seguito:
             ## Introduzione
             Descrizione generale del report e degli obiettivi.
  
